@@ -1367,5 +1367,5 @@ https://iptv-org.github.io/iptv/sources/<FILENAME>.m3u
 Also, any of our internal playlists are available in raw form (without any filtering or sorting) at this link:
 
 ```
-https://t.freetv.fun/m3u/playlist_all.m3u
+https://raw.githubusercontent.com/7xd9rjyhtv-collab/Free-TV-IPTV/refs/heads/main/Freetv.m3u
 ```
