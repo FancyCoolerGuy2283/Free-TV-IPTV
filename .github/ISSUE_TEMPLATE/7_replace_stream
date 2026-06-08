@@ -1,0 +1,46 @@
+name: ➕ Add stream
+description: Request to add a new stream link into the playlist
+title: 'Add: '
+labels: ['streams:add']
+
+body:
+  - type: input
+    id: stream_id
+    attributes:
+      label: Stream ID (required)
+      description: "ID of the stream consisting of `<channel_id>` or `<channel_id>@<feed_id>`. Full list of supported channels with corresponding ID could be found on [iptv-org.github.io](https://iptv-org.github.io/). If you can't find the channel you want in the list, please let us know through this [form](https://github.com/iptv-org/database/issues/new?assignees=&labels=channels%3Aadd&projects=&template=channels_add.yml&title=Add%3A+) before posting your request."
+      placeholder: 'BBCAmerica.us@East'
+    validations:
+      required: true
+
+  - type: input
+    id: stream_url
+    attributes:
+      label: Stream URL (required)
+      description: Link to be replace to the playlist
+      placeholder: 'https://example.com/playlist.m3u8'
+    validations:
+      required: true
+  
+    - type: input
+    id: stream_new_replace
+    attributes:
+      label: Stream URL (required)
+      description: Link to be added to the playlist
+      placeholder: 'https://example.com/playlist.m3u8'
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: 'Anything else we should know about this broadcast?'
+
+  - type: checkboxes
+    attributes:
+      label: Contributing Guide
+      description: 'Please read this guide before posting your request'
+      options:
+        - label: I have read [Contributing Guide](https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md)
+          required: true
