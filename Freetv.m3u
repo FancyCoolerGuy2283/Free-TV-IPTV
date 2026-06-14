@@ -67,3 +67,11 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@HD" group-title="Spinish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png", Telemundo United States HD (720p)
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn@VIEON" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png", VTV1 HD (1080p)
+https://livecdn-vthcm-bp.vieon.vn/6023a61da3ddc2d49ca4d12f08c3f0a1/1781552316000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="VTV2.vn@VIEON" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png", VTV2 HD (1080p)
+https://livecdn-vthcm-bp.vieon.vn/fcd65cfe43a09520a80bd6ea8069ae9e/1781552445000/livetv/group-03/65e4e2cd4a6cd1c07682cc9d1830fd3f/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="VTV4.vn@VIEON" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png", VTV4 HD (1080p)
+https://livecdn-vthcm-bp.vieon.vn/458efc9dc29ce3fd61d1f92ed84dc712/1781552583000/livetv/group-03/c9e89fdf42233e52a57a312baa4e9da0/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="VTV5.vn@VIEON" group-title="VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png", VTV5 HD (1080p)
+https://livecdn-vthcm-bp.vieon.vn/9f20f3b4490079c35c6519debb60187d/1781552662000/livetv/group-03/53a3ed9b2879dc2dcc2051bff6060b37/tracks-a1/index.fmp4.m3u8
