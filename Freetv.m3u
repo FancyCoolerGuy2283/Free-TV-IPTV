@@ -81,3 +81,9 @@ https://livecdn-vthcm-bp.vieon.vn/4aea906462318f4e52537f64f17abb16/1781576659000
 http://s3.e-cdn.me/live/Bengamenbukinafaso2026/msvrpi45e1/1775981.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.sg@Thailand" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Asia Thailand (720p)
 http://54.37.19.157/hbohd/playlist.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" group-title="Movies" tvg-logo="https://i.imgur.com/ZScwrpi.png", FX East (United States) (720p)
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@HD" group-title="Movies" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png", FX Movie Channel HD (1080p)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
+#EXTINF:-1 tvg-id="FXX.us@East" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png", FXX East (United States) (720p)
+http://23.237.104.106:8080/USA_FXX/index.m3u8
