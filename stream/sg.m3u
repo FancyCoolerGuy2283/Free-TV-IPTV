@@ -49,5 +49,3 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-327770703
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@Indonesia" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png", HBO Signature Asia Indonesia (720p)
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="AXNAsia.sg@Thailand" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", AXN Asia Thailand (1080p)
-http://s3.e-cdn.me/live/Bengamenbukinafaso2026/msvrpi45e1/1775981.m3u8
