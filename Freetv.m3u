@@ -59,8 +59,6 @@ https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 #EXTINF:-1 tvg-id="HBO.us@East" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO USA East (1080p)
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@HD" group-title="Spinish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png", Telemundo United States HD (720p)
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="FX.us@East" group-title="Movies" tvg-logo="https://i.imgur.com/ZScwrpi.png", FX East (United States) (720p)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us@HD" group-title="Movies" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png", FX Movie Channel HD (1080p)
