@@ -53,13 +53,5 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-327770703
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@Indonesia" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png", HBO Signature Asia Indonesia (720p)
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@Taiwan" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png", DreamWorks Asia Taiwan (1080p)
-https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@Taiwan" group-title="Movies" tvg-logo="https://i.imgur.com/c8crJfA.png", Cimemax Asia Taiwan (720p)
-https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
-#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Asia Taiwan (1080p)
-https://cdn.19891230.eu.org/api/HBO/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Thailand" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", AXN Asia Thailand (1080p)
 http://s3.e-cdn.me/live/Bengamenbukinafaso2026/msvrpi45e1/1775981.m3u8
-#EXTINF:-1 tvg-id="HBOAsia.sg@Thailand" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Asia Thailand (720p)
-http://54.37.19.157/hbohd/playlist.m3u8
