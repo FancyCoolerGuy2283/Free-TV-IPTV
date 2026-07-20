@@ -1,6 +1,6 @@
 name: ➕ Replace stream
-description: Request to add a new stream link into the playlist
-title: 'Add: '
+description: Request to replace a new stream link into the playlist
+title: 'Replace: '
 labels: ['streams:replace']
 
 body:
@@ -23,7 +23,7 @@ body:
       required: true
   
     - type: input
-    id: stream_new_replace
+    id: stream_replace
     attributes:
       label: Stream URL (required)
       description: Link to be added to the playlist
