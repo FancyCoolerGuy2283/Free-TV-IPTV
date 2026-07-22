@@ -63,3 +63,15 @@ http://40.160.24.53/HBO_HD/index.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.sg" group-title="Movies" tvg-logo="https://i.ibb.co/C3TgJq7g/IMG-2202.png", HBO Family Asia (720p)
 http://192.129.226.68:19890/trams/2711/playlist.m3u8?token=885252
+#EXTINF:-1 tvg-id="TBS.us@East" group-title="Entertainment" tvg-logo="https://i.ibb.co/qY2R4wY6/IMG-2410.png", TBS East (1080p)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS.us@West" group-title="Entertainment" tvg-logo="https://i.ibb.co/qY2R4wY6/IMG-2410.png", TBS West (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT.us@East" group-title="Entertainment" tvg-logo="https://i.ibb.co/6cd7XmQR/IMG-2411.png", TNT East (1080p)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT.us@West" group-title="Entertainment" tvg-logo="https://i.ibb.co/6cd7XmQR/IMG-2411.png", TNT West (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TruTV.us@East" group-title="Entertainment" tvg-logo="https://i.ibb.co/84501Cyp/IMG-2412.png", TruTV East (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TruTV.us@West" group-title="Entertainment" tvg-logo="https://i.ibb.co/84501Cyp/IMG-2412.png", TruTV West (1080p)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
