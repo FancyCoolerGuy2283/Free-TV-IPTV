@@ -63,5 +63,3 @@ http://40.160.24.53/HBO_HD/index.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.sg" group-title="Movies" tvg-logo="https://i.ibb.co/C3TgJq7g/IMG-2202.png", HBO Family Asia (720p)
 http://192.129.226.68:19890/trams/2711/playlist.m3u8?token=885252
-#EXTINF:-1 tvg-id="HBOHD.tw@SD" group-title="Movies" tvg-logo="https://i.ibb.co/9mGH3zSX/IMG-2401.png", HBO HD Taiwan (720p)
-http://125.227.210.55:3013/VideoInput/play.ts
