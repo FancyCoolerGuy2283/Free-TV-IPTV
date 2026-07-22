@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HBOHD.tw@SD", HBO HD Taiwan (720p)
+http://125.227.210.55:3013/VideoInput/play.ts
