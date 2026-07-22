@@ -8,6 +8,10 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East", HBO Movies USA East (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us@EastHD", Cinemax USA East (1080p)
+http://40.160.24.52/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us@WestHD", Cinemax USA West (720p)
+http://40.160.24.52/CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="TBS.us@East", TBS East (1080p)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TBS.us@West", TBS West (720p)
