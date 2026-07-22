@@ -1,6 +1,14 @@
-#EXTINF:-1 tvg-id="FX.us@East" group-title="Movies" tvg-logo="https://i.imgur.com/ZScwrpi.png", FX East (United States) (720p)
+#EXTINF:-1 tvg-id="FX.us@East", FX East (United States) (720p)
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-id="FXMovieChannel.us@HD" group-title="Movies" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png", FX Movie Channel HD (1080p)
+#EXTINF:-1 tvg-id="FXMovieChannel.us@HD", FX Movie Channel HD (1080p)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
-#EXTINF:-1 tvg-id="FXX.us@East" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png", FXX East (United States) (720p)
+#EXTINF:-1 tvg-id="FXX.us@East", FXX East (United States) (720p)
 http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us@WestHD", Cinemax USA West (720p)
+http://40.160.24.52/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us@EastHD", Cinemax USA East (1080p)
+http://40.160.24.52/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us@EastHD", HBO USA East HD (720p)
+http://40.160.24.53/HBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="HBOMovies.us@East", HBO Movies USA East (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
