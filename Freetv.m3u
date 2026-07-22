@@ -57,10 +57,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies.ir@HD" group-title="Kids" tvg-logo="https://i.ibb.co/mrPs6wTq/IMG-2393.png", Cbeebies Ireland HD (1080p)
 https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="Cinemax.us@WestHD" group-title="Movies" tvg-logo="https://i.ibb.co/GQChGnX0/IMG-2400.png", Cinemax USA West (720p)
-http://40.160.24.52/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us@EastHD" group-title="Movies" tvg-logo="https://i.ibb.co/tTPkXgC8/IMG-2399.png", Cinemax USA East (1080p)
-http://40.160.24.52/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us@EastHD" group-title="Movies" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png", HBO USA East HD (720p)
 http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East" group-title="Movies" tvg-logo="https://i.ibb.co/zW4gNnQj/IMG-2325.png", HBO Movies USA East (720p)
