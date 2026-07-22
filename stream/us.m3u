@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="FX.us@East", FX East (United States) (720p)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us@HD", FX Movie Channel HD (1080p)
