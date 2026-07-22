@@ -4,10 +4,6 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
 #EXTINF:-1 tvg-id="FXX.us@East", FXX East (United States) (720p)
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us@WestHD", Cinemax USA West (720p)
-http://40.160.24.52/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us@EastHD", Cinemax USA East (1080p)
-http://40.160.24.52/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us@EastHD", HBO USA East HD (720p)
 http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East", HBO Movies USA East (720p)
