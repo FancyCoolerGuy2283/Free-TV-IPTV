@@ -1,46 +1,26 @@
-name: 🔂 Replace stream
-description: Request to replace a new stream link into the playlist
-title: 'Replace: '
-labels: ['streams:replace']
+name: Auto-update M3U8
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours
+  workflow_dispatch:
 
-body:
-  - type: input
-    id: stream_id
-    attributes:
-      label: Stream ID (required)
-      description: "ID of the stream consisting of `<channel_id>` or `<channel_id>@<feed_id>`. Full list of supported channels with corresponding ID could be found on [iptv-org.github.io](https://iptv-org.github.io/). If you can't find the channel you want in the list, please let us know through this [form](https://github.com/iptv-org/database/issues/new?assignees=&labels=channels%3Aadd&projects=&template=channels_add.yml&title=Add%3A+) before posting your request."
-      placeholder: 'BBCAmerica.us@East'
-    validations:
-      required: true
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - type: input
-    id: stream_url
-    attributes:
-      label: Stream URL (required)
-      description: Link to be replace to the playlist
-      placeholder: 'https://example.com/playlist.m3u8'
-    validations:
-      required: true
-  
-    - type: input
-    id: stream_replace
-    attributes:
-      label: Stream URL (required)
-      description: Link to be added to the playlist
-      placeholder: 'https://example.com/playlist.m3u8'
-    validations:
-      required: true
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-  - type: textarea
-    id: notes
-    attributes:
-      label: Notes
-      description: 'Anything else we should know about this broadcast?'
+      - name: Run M3U8 update script
+        run: python update_m3u8.py # Script that processes and replaces URLs
 
-  - type: checkboxes
-    attributes:
-      label: Contributing Guide
-      description: 'Please read this guide before posting your request'
-      options:
-        - label: I have read [Contributing Guide](https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md)
-          required: true
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update M3U8 playlist URLs'
+          file_pattern: 'playlist.yaml' # The target YAML file to update
