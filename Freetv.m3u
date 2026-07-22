@@ -61,3 +61,5 @@ https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East" group-title="Movies" tvg-logo="https://i.ibb.co/zW4gNnQj/IMG-2325.png", HBO Movies USA East (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.sg" group-title="Movies" tvg-logo="https://i.ibb.co/C3TgJq7g/IMG-2202.png", HBO Family Asia (720p)
+http://192.129.226.68:19890/trams/2711/playlist.m3u8?token=885252
