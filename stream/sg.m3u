@@ -49,3 +49,5 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-327770703
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@Indonesia", HBO Signature Asia Indonesia (720p)
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="HBOAsia.sg@Philippines", HBO Asia Philippines HD
+https://thinkkast.dpdns.org/tkk-ph/i7/cg_hbohd/hbo-hd.m3u8
