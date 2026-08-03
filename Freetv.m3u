@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBOAsia.sg@Indonesia" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",  HBO Asia Indonesia (720p)
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", AXN Asia Indonesia (1080p)
 https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="AXNAsia.sg@Vietmam" group-title="Entertainment" tvg-logo="https://freem3u.xyz/static/images/global/axn.png", AXN Asia Vietnam (1080p)
@@ -9,60 +7,12 @@ https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg@Vietnam" group-title="Lifestyle" tvg-logo="https://freem3u.xyz/static/images/global/discovery-channel.png", Discovery Channel Southeast Asia Vietnam (720p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBOAsia.sg@Vietnam" group-title="Movies" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png", HBO Asia Vietnam (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="DiscoveryAsia.sg@Vietnam" group-title="Lifestyle" tvg-logo="https://freem3u.xyz/static/images/global/discovery-asia.png", Discovery Asia Vietnam (720p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg@Vietnam" group-title="Lifestyle" tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png", Animal Planet Southeast Asia Vietnam (1080i)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@Vietnam" group-title="Movies" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png", Cinemax Asia Vietnam (720p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg@Indonesia" group-title="Movies" tvg-logo="https://i.imgur.com/CTjmocc.png", HBO Hits Asia Indonesia (1080p)
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg@Vietnam" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png", DMAX Southeast Asia Vietnam (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg@Indonesia" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png", HBO Signature Asia Indonesia (720p)
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="FX.us@East" group-title="Movies" tvg-logo="https://i.imgur.com/ZScwrpi.png", FX East (United States) (720p)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us@HD" group-title="Movies" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png", FX Movie Channel HD (1080p)
 https://gpuserver3.tier1streams.com/FXM/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png", FXX East (United States) (720p)
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us@EastHD" group-title="Movies" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png", HBO USA East HD (720p)
-http://40.160.24.53/HBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="HBOMovies.us@East" group-title="Movies" tvg-logo="https://i.ibb.co/zW4gNnQj/IMG-2325.png", HBO Movies USA East (720p)
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us@EastHD" group-title="Movies" tvg-logo="https://i.ibb.co/tTPkXgC8/IMG-2399.png", Cinemax USA East (1080p)
-http://40.160.24.52/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us@WestHD" group-title="Movies" tvg-logo="https://i.ibb.co/GQChGnX0/IMG-2400.png", Cinemax USA West (720p)
-http://40.160.24.52/CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="TBS.us@East" group-title="Entertainment" tvg-logo="https://i.ibb.co/qY2R4wY6/IMG-2410.png", TBS East (1080p)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TBS.us@West" group-title="Entertainment" tvg-logo="https://i.ibb.co/qY2R4wY6/IMG-2410.png", TBS West (720p)
@@ -75,11 +25,5 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TruTV.us@West" group-title="Entertainment" tvg-logo="https://i.ibb.co/84501Cyp/IMG-2412.png", TruTV West (1080p)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HBO2.ca@SD" group-title="Movies" tvg-logo="https://i.imgur.com/OjisgE1.png", HBO 2 CA (720p)
-https://sra72yz.s.gy/HBO_2_CANADA
-#EXTINF:-1 tvg-id="HBOAsia.sg@Philippines" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Asia Philippines HD (720p)
-https://thinkkast.dpdns.org/tkk-ph/i7/cg_hbohd/hbo-hd.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyAsia.ph@SD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png", HBO Family Asia Philippines (720p)
-https://thinkkast.dpdns.org/tkk-ph/i7/cg_hbofam/hbo-family.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.tw" tvg-logo="https://i.imgur.com/E84jnP8.png", Nickelodeon Asia Taiwan (720p)
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
