@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBOAsia.sg@Indonesia",  HBO Asia Indonesia (720p)
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia", AXN Asia Indonesia (1080p)
 https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="AXNAsia.sg@Vietmam", AXN Asia Vietnam (1080p)
@@ -9,45 +7,3 @@ https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg@Vietnam", Discovery Channel Southeast Asia Vietnam (720p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBOAsia.sg@Vietnam", HBO Asia Vietnam (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="DiscoveryAsia.sg@Vietnam", Discovery Asia Vietnam (720p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg@Vietnam", Animal Planet Southeast Asia Vietnam (1080i)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@Vietnam", Cinemax Asia Vietnam (720p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg@Indonesia", HBO Hits Asia Indonesia (1080p)
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg@Vietnam", DMAX Southeast Asia Vietnam (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg@Indonesia", HBO Signature Asia Indonesia (720p)
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="HBOAsia.sg@Philippines", HBO Asia Philippines HD (720p)
-https://thinkkast.dpdns.org/tkk-ph/i7/cg_hbohd/hbo-hd.m3u8
