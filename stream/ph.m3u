@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA.ph", NBA TV Philippines (720p)
+https://thinkkast.dpdns.org/thinkkast/cgnl_nba/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV.ph", SPOTV (1080p)
+https://thinkkast.dpdns.org/thinkkast/cg_spotvhd/versiglia/index.m3u8
