@@ -31,3 +31,13 @@ http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 https://thinkkast.dpdns.org/thinkkast/cgnl_nba/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV.ph" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1280px-SPOTV_logo.svg.png", SPOTV (1080p)
 https://thinkkast.dpdns.org/thinkkast/cg_spotvhd/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_hbohd/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/960px-HBOHits-ASIA.png", HBO Hits Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_hbohits/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png", HBO Family Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_hbofam/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png", HBO Signature Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_hbosign/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" group-title="Movies" tvg-logo="https://i.imgur.com/c8crJfA.png", Cinemax Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_cinemax/versiglia/index.m3u8
