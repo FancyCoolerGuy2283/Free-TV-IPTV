@@ -7,3 +7,13 @@ https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="HBOAsia.sg@HD", HBO Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_hbohd/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg@HD", HBO Hits Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_hbohits/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@HD", HBO Family Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_hbofam/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg@HD", HBO Signature Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_hbosign/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@HD", Cinemax Asia HD (720p)
+https://thinkkast.dpdns.org/thinkkast/cg_cinemax/versiglia/index.m3u8
