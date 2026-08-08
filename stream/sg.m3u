@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia", AXN Asia Indonesia (1080p)
 https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="AXNAsia.sg@Vietmam", AXN Asia Vietnam (1080p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="HBOAsia.sg@HD", HBO Asia HD (720p)
 https://thinkkast.dpdns.org/thinkkast/cg_hbohd/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@HD", HBO Hits Asia HD (720p)
