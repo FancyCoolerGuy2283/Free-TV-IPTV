@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBOLatinAmerica.br@HD, HBO Latin America Brazil HD (1080p)
+#EXTINF:-1 tvg-id="HBOLatinAmerica.br@HD", HBO Latin America Brazil HD (1080p)
 http://15.204.246.24:8080/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.br@HD, HBO 2 Latin America Brazil HD (1080p)
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.br@HD", HBO 2 Latin America Brazil HD (1080p)
 http://15.204.246.24:8080/HBO2HD/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.br@HD, HBO Family Latin America HD (1080p)
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.br@HD", HBO Family Latin America HD (1080p)
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.br@HD, HBO Plus Latin America HD (1080p)
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.br@HD", HBO Plus Latin America HD (1080p)
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
