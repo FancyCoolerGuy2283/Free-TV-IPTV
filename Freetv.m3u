@@ -17,5 +17,11 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.tw" group-title="Kids" tvg-logo="https://i.imgur.com/E84jnP8.png", Nickelodeon Asia Taiwan (720p)
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
-#EXTINF:-1 tvg-id="TBS.us@East" group-title="Entertainment" tvg-logo="https://i.ibb.co/qY2R4wY6/IMG-2410.png", TBS East (1080p)
-http://40.160.24.55/TBS_EAST/index.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Latin America Brazil HD (1080p)
+http://15.204.246.24:8080/HBOHD/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png", HBO 2 Latin America Brazil HD (1080p)
+http://15.204.246.24:8080/HBO2HD/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png", HBO Family Latin America HD (1080p)
+http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png", HBO Plus Latin America HD (1080p)
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
