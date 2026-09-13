@@ -25,12 +25,13 @@ body:
       options:
         - Not loading
         - Constantly interrupts/lagging
+        - Channel has been closed
+        - Black screen
         - Stuck at a single frame
         - I see visual artifacts
         - Shows looped video
         - No sound
         - Displays a message asking to renew subscription
-        - Channel Blocked
         - Other
     validations:
       required: true
