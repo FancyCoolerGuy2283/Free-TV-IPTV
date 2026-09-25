@@ -21,3 +21,5 @@ http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 http://4.30.180.36:8420/showtime/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us", Showtime Family Zone (1080p)
 http://4.30.180.36:8420/showtimefamily/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Galavision.us", Galavision
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/44028.m3u8
