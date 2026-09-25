@@ -1,0 +1,11 @@
+#EXM3U
+#EXTINF:-1 tvg-id="USANetwork.ca", USA Network Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/44266.m3u8
+#EXTINF:-1 tvg-id="HBO1.ca", HBO 1 Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/29387.m3u8
+#EXTINF:-1 tvg-id="HBO2.ca", HBO 2 Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/29386.m3u8
+#EXTINF:-1 tvg-id="HGTV.ca", HGTV Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/61855.m3u8
+#EXTINF:-1 tvg-id="CBS.ca", CBS Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/29428.m3u8
