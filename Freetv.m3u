@@ -27,3 +27,15 @@ http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 http://4.30.180.36:8420/showtime/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" group-title="Movies" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png", Showtime Family Zone (1080p)
 http://4.30.180.36:8420/showtimefamily/index.m3u8?token=test
+#EXTINF:-1 tvg-id="USANetwork.ca" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png", USA Network Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/44266.m3u8
+#EXTINF:-1 tvg-id="HBO1.ca" group-title="Movies" tvg-logo="https://i.imgur.com/2pD6eN6.png", HBO 1 Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/29387.m3u8
+#EXTINF:-1 tvg-id="HBO2.ca" group-title="Movies" tvg-logo="https://i.imgur.com/OjisgE1.png", HBO 2 Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/29386.m3u8
+#EXTINF:-1 tvg-id="HGTV.ca" group-title="Lifestyle" tvg-logo="https://i.imgur.com/YSl9gV3.png", HGTV Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/61855.m3u8
+#EXTINF:-1 tvg-id="CBS.ca" group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",CBS Canada
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/29428.m3u8
+#EXTINF:-1 tvg-id="Galavision.us" group-title="En Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png", Galavision
+http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/44028.m3u8
