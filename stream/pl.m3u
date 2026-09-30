@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-id="CanalPlus1.pl@HD", Canal+ 1 (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/302/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusDokument.pl@HD", Canal+ Dokument HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/301/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlus360.pl@HD", Canal+ 360 (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/300/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusNow.pl@HD", Canal+ Now (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/299/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl@HD", Canal+ Film (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/296/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl@HD", Canal+ Seriale (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/294/index.m3u8
