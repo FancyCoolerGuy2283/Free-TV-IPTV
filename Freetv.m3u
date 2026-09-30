@@ -39,3 +39,23 @@ http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/61855.m3u8
 http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/29428.m3u8
 #EXTINF:-1 tvg-id="Galavision.us" group-title="En Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png", Galavision
 http://etvserv.xyz:55337/live/tazz607/s8iD3k3nY2/44028.m3u8
+#EXTINF:-1 tvg-id="CanalPlus1.pl@HD" group-title="Entertainment" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/RPqkrlsb2dvLW1pZ3JhdGVkL2NhbmFsLTEucG5nkpUCZADCw5UCACjCww", Canal+ 1 (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/302/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusDokument.pl@HD" group-title="Documentary" tvg-logo="https://i.imgur.com/La6WF7D.png", Canal+ Dokument HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/301/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlus360.pl@HD" group-title="Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/960px-Canal360_1920x1080.png", Canal+ 360 (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/300/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusNow.pl@HD" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/960px-C%2BNow.png", Canal+ Now (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/299/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl@HD" group-title="Movies" tvg-logo="https://i.imgur.com/2yMtcJw.png", Canal+ Film (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/296/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl@HD" group-title="Series" tvg-logo="https://i.imgur.com/B55Rl3T.png", Canal+ Seriale (Poland) HD (720p)
+#EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
+http://57.128.210.196:8080/294/index.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Latin America Brazil HD (1080p)
+http://15.204.246.24:8080/HBOHD/index.m3u8
