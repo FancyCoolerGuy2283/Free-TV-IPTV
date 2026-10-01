@@ -20,7 +20,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 Simply paste the link to one of the playlists into [any video player](https://t.freetv.fun/m3u/playlist_all.m3u) that supports live streaming and press _Open_.
 
-![VLC Network Panel](https://t.freetv.fun/m3u/playlist_all.m3u)
+![VLC Network Panel](https://i.ibb.co/Y4jMpcBm/IMG-2764.png)
 
 ## Playlists
 
