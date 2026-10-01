@@ -74,6 +74,12 @@ And thank you to everyone who has already contributed!
 
 No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by opening an [issue](https://github.com/iptv-org/iptv/issues/new?template=6_copyright-claim.yml). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
+## News
+
+Bad News Everyone I Have Very Important News To Make. On October 2 The Free-TV-EPG Will Be Failed By Action Failed Parter GitHub No Longer Date Action, And I Will Shut Down This EPG For Actions That Will Cause The Failed Problem And Thank You For Supporting Us For Free-TV-IPTV
+
+Suddenly, FancyCoolerGuy2283 (Owner)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
