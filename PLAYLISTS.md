@@ -2,6 +2,10 @@
 
 There are several versions of playlists that differ in the way they are grouped. As of January 30th, 2024, we have stopped distributing NSFW channels. For more information, please look at [this issue](https://github.com/iptv-org/iptv/issues/15723).
 
+## Shut Down EPG
+
+On October 2 The EPG Will Shut Down Due To Failed Actions Date No Longer Due Date For Supporting GitHub [Look At This News] (https://github.com/FancyCoolerGuy2283/Free-TV-IPTV#news).
+
 ### Grouped by category
 
 Playlists in which channels are grouped by category.
