@@ -4,7 +4,7 @@ There are several versions of playlists that differ in the way they are grouped.
 
 ## Shut Down EPG
 
-On October 2 The EPG Will Shut Down Due To Failed Actions Date No Longer Due Date For Supporting GitHub [Look At This News] (https://github.com/FancyCoolerGuy2283/Free-TV-IPTV#news).
+On October 2 The EPG Will Shut Down Due To Failed Actions Date No Longer Due Date For Supporting GitHub Owner.
 
 ### Grouped by category
 
