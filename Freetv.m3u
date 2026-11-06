@@ -11,11 +11,11 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TruTV.us@West" group-title="Entertainment" tvg-logo="https://i.ibb.co/84501Cyp/IMG-2412.png", TruTV West (1080p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png", HBO 2 Latin America Brazil HD (1080p)
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png", HBO 2 Latin America Brazil HD (1080p) [Geo-blocked]
 http://15.204.246.24:8080/HBO2HD/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png", HBO Family Latin America HD (1080p)
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png", HBO Family Latin America HD (1080p) [Geo-blocked]
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png", HBO Plus Latin America HD (1080p)
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png", HBO Plus Latin America HD (1080p) [Geo-blocked]
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png", HBO2 (United States) (1080p)
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
@@ -51,5 +51,5 @@ http://57.128.210.196:8080/296/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSeriale.pl@HD" group-title="Series" tvg-logo="https://i.imgur.com/B55Rl3T.png", Canal+ Seriale (Poland) HD (720p)
 #EXTVLCOPT:http-referrer=https://www.canalplus.com/pl/
 http://57.128.210.196:8080/294/index.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Latin America Brazil HD (1080p)
+#EXTINF:-1 tvg-id="HBOLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Latin America Brazil HD (1080p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
