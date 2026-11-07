@@ -25,3 +25,5 @@ http://4.30.180.36:8420/showtime/index.m3u8?token=test
 http://4.30.180.36:8420/showtimefamily/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HBOLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Latin America Brazil HD (1080p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
+#EXTINF:-1 tvg-id="Boing.it@HD" group-title="Kids" tvg-logo="https://i.imgur.com/rabKj9i.png", Boing Italy HD (1080p)
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
