@@ -13,7 +13,3 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="HBO2.us", HBO2 (United States) (1080p)
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Showtime.us", Showtime (United States) (1080p)
-http://4.30.180.36:8420/showtime/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us", Showtime Family Zone (1080p)
-http://4.30.180.36:8420/showtimefamily/index.m3u8?token=test
