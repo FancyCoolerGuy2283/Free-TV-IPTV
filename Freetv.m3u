@@ -19,10 +19,6 @@ http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png", HBO2 (United States) (1080p)
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Showtime.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paramount%2B_with_Showtime_logo.svg/960px-Paramount%2B_with_Showtime_logo.svg.png", Showtime (United States) (1080p)
-http://4.30.180.36:8420/showtime/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" group-title="Movies" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png", Showtime Family Zone (1080p)
-http://4.30.180.36:8420/showtimefamily/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HBOLatinAmerica.br@HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Latin America Brazil HD (1080p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="Boing.it@HD" group-title="Kids" tvg-logo="https://i.imgur.com/rabKj9i.png", Boing Italy HD (1080p)
